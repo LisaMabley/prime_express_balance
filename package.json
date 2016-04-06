@@ -1,0 +1,15 @@
+{
+  "name": "solo_express_balance",
+  "version": "1.0.0",
+  "description": "prime solo express",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Lisa Mabley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
